@@ -26,13 +26,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-  </a>
-
 <h3 align="center">Workout Tracker and Grapher</h3>
 
   <p align="center">
