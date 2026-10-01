@@ -36,7 +36,7 @@
 <h3 align="center">Workout Tracker and Grapher</h3>
 
   <p align="center">
-    project_description
+    Java program that allows users to record and display trends in their workout volume over time .
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
